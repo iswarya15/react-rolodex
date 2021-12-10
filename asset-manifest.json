@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iswarya15.github.io/react-rolodex/static/css/main.a6b27649.chunk.css",
+    "main.js": "/iswarya15.github.io/react-rolodex/static/js/main.b162b854.chunk.js",
+    "main.js.map": "/iswarya15.github.io/react-rolodex/static/js/main.b162b854.chunk.js.map",
+    "runtime-main.js": "/iswarya15.github.io/react-rolodex/static/js/runtime-main.04cef337.js",
+    "runtime-main.js.map": "/iswarya15.github.io/react-rolodex/static/js/runtime-main.04cef337.js.map",
+    "static/js/2.0a61d89d.chunk.js": "/iswarya15.github.io/react-rolodex/static/js/2.0a61d89d.chunk.js",
+    "static/js/2.0a61d89d.chunk.js.map": "/iswarya15.github.io/react-rolodex/static/js/2.0a61d89d.chunk.js.map",
+    "static/js/3.290e3770.chunk.js": "/iswarya15.github.io/react-rolodex/static/js/3.290e3770.chunk.js",
+    "static/js/3.290e3770.chunk.js.map": "/iswarya15.github.io/react-rolodex/static/js/3.290e3770.chunk.js.map",
+    "index.html": "/iswarya15.github.io/react-rolodex/index.html",
+    "static/css/main.a6b27649.chunk.css.map": "/iswarya15.github.io/react-rolodex/static/css/main.a6b27649.chunk.css.map",
+    "static/js/2.0a61d89d.chunk.js.LICENSE.txt": "/iswarya15.github.io/react-rolodex/static/js/2.0a61d89d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cef337.js",
+    "static/js/2.0a61d89d.chunk.js",
+    "static/css/main.a6b27649.chunk.css",
+    "static/js/main.b162b854.chunk.js"
+  ]
+}
